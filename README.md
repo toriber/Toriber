@@ -6,7 +6,7 @@ A little about me
 ```python
 class Bernardo:
     def __init__(self):
-        self.code=['Python','C','Fortran (?)']
+        self.code=['Python','C','Fortran']
         self.tools=['Jupyter','Latex','SQL']
         self.ongoing='Just keep working, maybe a future PhD?, idk'
     def coffee(self):
@@ -18,9 +18,21 @@ class Bernardo:
 ## Social media 
 
 <a href="https://www.linkedin.com/in/bernardo-recabarren-6296971bb/">
-  <img align="left" alt="Gus's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="rekito LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
+
+## Developed projects
+
+<table style="padding:10px">
+   <tr>
+    <td width=250px align="center"> <img src="https://github.com/toriber/Toriber/blob/main/gif/VisualizadorPLP.gif" height = 150px ></td>
+    <td width = 800px> 
+    Dashboard for PLP (Problema Largo Plazo) results, developed and mounted with docker/streamlit/plotly/polars in a web <br> <br> 
+    </td>
+  </tr>
+</table>
+
 
 ## About myself 
 
@@ -33,8 +45,9 @@ class Bernardo:
     * "A really funny joke here"
 
 
-## Let's get serious
 
-- If you are here in a "code work" mood, you might be interested in looking at my [Work-CV 📄](https://drive.google.com/file/d/1jjG_Zq0gHPBAoAlI6JOaIabwSKt6lZ-U/view?usp=sharing).
+
+
+## Let's get serious
 
 - If you are in a "optimal" mood, maybe my [thesis 📖](https://repositorio.usm.cl/bitstream/handle/11673/54652/m19689563-9.pdf?sequence=1&isAllowed=y), about Optimal Transport could interest you. Feel free to reach me about any comments.
