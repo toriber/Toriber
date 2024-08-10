@@ -28,7 +28,27 @@ class Bernardo:
    <tr>
     <td width=250px align="center"> <img src="https://github.com/toriber/Toriber/blob/main/gif/VisualizadorPLP.gif" height = 150px ></td>
     <td width = 800px> 
-    Dashboard for PLP (Problema Largo Plazo) results, developed and mounted with docker/streamlit/plotly/polars in a web <br> <br> 
+    Dashboard for PLP (Problema Largo Plazo) results, developed and mounted with docker/streamlit/plotly/polars and deployed in a web for the Coordinador Eléctrico Nacional (CEN) <br> <br> 
+    </td>
+  </tr>
+  <tr>
+    <td width=250px align='center'>
+        <a href='https://github.com/toriber/pedir_hora_vina'>
+            <img src="https://github.com/toriber/Toriber/blob/main/gif/VisualizadorPLP.gif" height = 250px >
+        </a>
+    </td>
+    <td width=800px>
+        Automatic calendar review for booking a driving test time in Viña del Mar, with a email notification where is one avaiable
+    </td>
+  </tr>
+    <tr>
+    <td width=250px align='center'>
+        <a href='https://github.com/toriber/simulaciones_extraccion'>
+            <img src="https://github.com/toriber/Toriber/blob/main/gif/OptimalPitPlot.gif" height = 250px >
+        </a>
+    </td>
+    <td width=800px>
+        Master's Thesis: Numerical Simulations of optimal pits with optimal transport
     </td>
   </tr>
 </table>
