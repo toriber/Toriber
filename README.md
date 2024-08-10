@@ -34,7 +34,7 @@ class Bernardo:
   <tr>
     <td width=250px align='center'>
         <a href='https://github.com/toriber/pedir_hora_vina'>
-            <img src="https://github.com/toriber/Toriber/blob/main/gif/VisualizadorPLP.gif" height = 250px >
+            <img src="https://github.com/toriber/Toriber/blob/main/imgs/ReservaHoraVina.gif" height = 250px >
         </a>
     </td>
     <td width=800px>
@@ -44,7 +44,7 @@ class Bernardo:
     <tr>
     <td width=250px align='center'>
         <a href='https://github.com/toriber/simulaciones_extraccion'>
-            <img src="https://github.com/toriber/Toriber/blob/main/gif/OptimalPitPlot.gif" height = 250px >
+            <img src="https://github.com/toriber/Toriber/blob/main/imgs/OptimalPitPlot.gif" height = 250px >
         </a>
     </td>
     <td width=800px>
